@@ -1,0 +1,19 @@
+{
+  "name": "palindromist",
+  "version": "1.0.0",
+  "description": "Algorithms and tools for palindrome writers",
+  "main": "Ladumisalgoritm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agiil/Palindromist.git"
+  },
+  "author": "Priit Parmakson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agiil/Palindromist/issues"
+  },
+  "homepage": "https://github.com/agiil/Palindromist#readme"
+}
