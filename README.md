@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/{username}/{repo}/badge.svg)](https://snyk.io/test/github/agiil/Palindromist)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Algoritmid ja töövahendid samatekstide kirjutajatele
 
