@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/agiil/Palindromist/issues"
   },
-  "homepage": "https://github.com/agiil/Palindromist#readme"
+  "homepage": "https://github.com/agiil/Palindromist#readme",
+  "devDependencies": {}
 }
